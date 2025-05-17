@@ -3,7 +3,7 @@
   <remote name="s5e8845" fetch="https://github.com/samsung-s5e8845-kernel" sync-c="true"/>
 
   <!-- S5E8845 kernel -->
-  <project path="common" name="kernel_platform_exynos-kernel" revision="main" remote="s5e8845"/>
+  <project path="common" name="kernel_platform_exynos-kernel" revision="A556EXXS6AYC3" remote="s5e8845"/>
 
   <!-- S5E8845 Device -->
   <project path="prebuilts/platform/erd8845" name="device_samsung_s5e8845" revision="main" remote="s5e8845"/>
